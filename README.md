@@ -1,12 +1,12 @@
-#Forked Repository Practice
+# Forked Repository Practice
 
-##Description
+## Description
 This repository was forked as a part of college assignment to practice git and github workflows.
 the tasks performed include forking the repository, cloning it to the local sysytem,adding a new file with content and creating 
 a ".gitignore" file to manage the untracked files effectively.
 
 
-##Steps:
+## Steps:
 1.  **Forked a repository**:
     - forked the repository using the 'fork' button on github to create a copy under my github account.
 2.  **Cloned the repository**:
@@ -24,6 +24,6 @@ a ".gitignore" file to manage the untracked files effectively.
     - added a title and description for the pull request and submitted it for the review.
 
 
-##Usage:
+## Usage:
 The purpose of this repository is to practice forking,cloning a repository and creating a .gitignore file to manage untracked files.
 
